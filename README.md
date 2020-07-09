@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+
+#### Feel free to get in touch
+📫 mail@manuelmaier.com
+💻 www.manuelmaier.com
 
 <!--
 **mnlmaier/mnlmaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
